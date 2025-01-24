@@ -1,0 +1,4 @@
+(fp_lib_table
+  (version 7)
+  (lib (name "PicoMMU")(type "KiCad")(uri "${KIPRJMOD}/PicoMMU.pretty")(options "")(descr ""))
+)
